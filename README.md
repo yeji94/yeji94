@@ -2,7 +2,7 @@
 <!-- Header -->
 ### 🙇 안녕하세요! 풀스택 프로그래머로 성장해나가고 있는 안예지입니다!
 <!-- https://emojipedia.org/ https://hits.seeyoufarm.com/ https://capsule-render.vercel.app/ -->
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeji94&count_bg=%23B5ECE1&title_bg=%23D6EC2E&icon=&icon_color=%23F2F2F2&title=count&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Waving](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=코딩%20어렵지만%20할%20수%20있다!!&fontAlign=51&reversal=false&fontAlignY=54)
 
