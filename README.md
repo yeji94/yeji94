@@ -1,6 +1,8 @@
 ## 👋Hello I'm Yeji😊
 <!-- Header -->
-![Waving]https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&text=Have%20a%20nice%20day&fontAlign=50&animation=blink&strokeWidth=0
+
+![Waving](https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&text=Have%20a%20nice%20day&fontAlign=50&animation=blink&strokeWidth=0)
+
 
 ### 🙇 안녕하세요! 풀스택 프로그래머로 성장해나가고 있는 안예지입니다!
 <!-- https://emojipedia.org/ https://hits.seeyoufarm.com/ https://capsule-render.vercel.app/ -->
