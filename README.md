@@ -4,7 +4,7 @@
 <!-- https://emojipedia.org/ https://hits.seeyoufarm.com/ https://capsule-render.vercel.app/ -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Waving]([https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=코딩%20어렵지만%20할%20수%20있다!!&fontAlign=51&reversal=false&fontAlignY=54))
+![Waving](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=코딩%20어렵지만%20할%20수%20있다!!&fontAlign=51&reversal=false&fontAlignY=54)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
