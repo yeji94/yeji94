@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋Hello I'm Yeji😊
 <!-- Header -->
 ### 🙇 안녕하세요! 풀스택 프로그래머로 성장해나가고 있는 안예지입니다!
 <!-- https://emojipedia.org/ https://hits.seeyoufarm.com/ https://capsule-render.vercel.app/ -->
