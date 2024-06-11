@@ -1,5 +1,6 @@
 ## 👋Hello I'm Yeji😊
 <!-- Header -->
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 ### 🙇 안녕하세요! 풀스택 프로그래머로 성장해나가고 있는 안예지입니다!
 <!-- https://emojipedia.org/ https://hits.seeyoufarm.com/ https://capsule-render.vercel.app/ -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeji94&count_bg=%23B5ECE1&title_bg=%23D6EC2E&icon=&icon_color=%23F2F2F2&title=count&edge_flat=false)](https://hits.seeyoufarm.com)
